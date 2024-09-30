@@ -25,7 +25,7 @@ I have completed the **IBM Data Engineering Professional Certificate**, which in
 - Mastering the most up-to-date practical skills and knowledge data engineers use in their daily roles.
 - Creating, designing, and managing relational databases while applying DBA concepts to RDBMSs like MySQL, PostgreSQL, and IBM Db2.
 - Developing knowledge of NoSQL and Big Data technologies such as MongoDB, Cassandra, Cloudant, Hadoop, Apache Spark, Spark SQL, Spark ML, and Spark Streaming.
-- Implementing ETL and Data Pipelines wi
+- Implementing ETL and Data Pipelines with Bash, Airflow, and Kafka; architecting, populating, and deploying Data Warehouses; and creating BI reports and interactive dashboards.
 
 
 ---
