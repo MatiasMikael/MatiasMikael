@@ -27,6 +27,7 @@ I have completed the **IBM Data Engineering Professional Certificate**, which in
 - Developing knowledge of NoSQL and Big Data technologies such as MongoDB, Cassandra, Cloudant, Hadoop, Apache Spark, Spark SQL, Spark ML, and Spark Streaming.
 - Implementing ETL and Data Pipelines with Bash, Airflow, and Kafka; architecting, populating, and deploying Data Warehouses; and creating BI reports and interactive dashboards.
 
+Additionally, I've completed the **Introduction to Data Analytics** course.
 
 ---
 
